@@ -10,6 +10,11 @@ biblio-nova-monorepo/
 ├── frontend/    # Interface utilisateur React
 ```
 
+## Déploiement
+
+- Frontend : [https://biblio-nova-frontend.vercel.app/](https://biblio-nova-frontend.vercel.app/)
+- Backend : [https://biblionova-backend.onrender.com](https://biblionova-backend.onrender.com)
+
 ## Installation
 
 1. Cloner le monorepo :
